@@ -1,5 +1,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/YASAN)](https://twitter.com/YASAN)
-[![YASAN Discord Server](https://img.shields.io/discord/552160677872271361?color=2C2F33&label=YASAN%20Discord%20Server&logoColor=2C2F33&style=social)
+[![Twitter Follow](https://img.shields.io/discord/552160677872271361?color=2C2F33&label=Join%20YASAN%20Discord%20Server&logoColor=2C2F33&style=social)
+
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
