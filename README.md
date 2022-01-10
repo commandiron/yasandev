@@ -5,9 +5,9 @@
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Artwalls 2.0 —What To Expect](https://yasandev.medium.com/artwalls-2-0-what-to-expect-2016c23d572e?source=rss-fcea725800bc------2)
 - [YASAN Launcher: 22.01 Update](https://yasandev.medium.com/yasan-launcher-22-01-update-b62bc053e2cf?source=rss-fcea725800bc------2)
 - [YASAN Launcher: 21.12 Update](https://yasandev.medium.com/yasan-launcher-21-12-cf6000ff814?source=rss-fcea725800bc------2)
 - [YASAN Launcher: 21.11 Update](https://yasandev.medium.com/yasan-launcher-21-11-update-ca48ad386e04?source=rss-fcea725800bc------2)
 - [YASAN Launcher: 21.10 Update](https://yasandev.medium.com/yasan-launcher-21-10-day-night-colors-8e116c6be599?source=rss-fcea725800bc------2)
-- [YASAN Launcher: 21.09 — The Next Generation](https://yasandev.medium.com/yasan-launcher-21-09-update-ceb7381fe06c?source=rss-fcea725800bc------2)
 <!-- BLOG-POST-LIST:END -->
