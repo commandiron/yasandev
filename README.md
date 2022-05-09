@@ -1,7 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/4e46b857-e471-4180-b789-44e714acaeb2.svg)](https://wakatime.com/@4e46b857-e471-4180-b789-44e714acaeb2)
 [![YASAN Discord Server](https://img.shields.io/discord/552160677872271361?label=YASAN%20Discord%20Server)](https://discord.com/invite/htPzqAU)
 [![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/10406881?label=Stack%20Overflow%20Reputation)](https://stackoverflow.com/users/10406881/yasan)
-[![GitHub Stars](https://img.shields.io/github/stars/yasandev?affiliations=OWNER&label=GitHub%20Stars)](https://github.com/yasandev)
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
