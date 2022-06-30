@@ -2,7 +2,10 @@
 [![YASAN Discord Server](https://img.shields.io/discord/552160677872271361?label=YASAN%20Discord%20Server)](https://discord.com/invite/htPzqAU)
 [![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/10406881?label=Stack%20Overflow%20Reputation)](https://stackoverflow.com/users/10406881/yasan)
 
-## Blog Posts
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## Medium Posts
 <!-- BLOG-POST-LIST:START -->
 - [YOUR Launcher — YASAN Launcher](https://yasandev.medium.com/your-launcher-yasan-launcher-5e3549e37d1b?source=rss-fcea725800bc------2)
 - [Less Drawer, More Dashboard — YASAN Launcher](https://yasandev.medium.com/less-drawer-more-dashboard-yasan-launcher-34caf70504ba?source=rss-fcea725800bc------2)
