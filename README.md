@@ -3,6 +3,13 @@
 [![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/10406881?label=Stack%20Overflow%20Reputation)](https://stackoverflow.com/users/10406881/yasan)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 23 June 2022 - To: 30 June 2022
+
+Other                                  ██████████████████▓░░░░░░   74.74 %
+```
+
 <!--END_SECTION:waka-->
 
 ## Medium Posts
