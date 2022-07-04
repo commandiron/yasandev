@@ -12,7 +12,6 @@ Other                            ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
 ## Medium Posts
 <!-- BLOG-POST-LIST:START -->
 - [YOUR Launcher — YASAN Launcher](https://yasandev.medium.com/your-launcher-yasan-launcher-5e3549e37d1b?source=rss-fcea725800bc------2)
