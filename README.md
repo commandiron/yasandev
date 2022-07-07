@@ -16,7 +16,7 @@ YAML                             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-## Medium Posts
+## Medium Stories
 <!-- BLOG-POST-LIST:START -->
 - [YOUR Launcher — YASAN Launcher](https://yasandev.medium.com/your-launcher-yasan-launcher-5e3549e37d1b?source=rss-fcea725800bc------2)
 - [Less Drawer, More Dashboard — YASAN Launcher](https://yasandev.medium.com/less-drawer-more-dashboard-yasan-launcher-34caf70504ba?source=rss-fcea725800bc------2)
