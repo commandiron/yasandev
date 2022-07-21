@@ -20,3 +20,6 @@ YAML                             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 - [Artwalls 2.0 —What To Expect](https://yasandev.medium.com/artwalls-2-0-what-to-expect-2016c23d572e?source=rss-fcea725800bc------2)
 - [YASAN Launcher: 22.01 Update](https://yasandev.medium.com/yasan-launcher-22-01-update-b62bc053e2cf?source=rss-fcea725800bc------2)
 <!-- BLOG-POST-LIST:END -->
+
+## Music
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=yasandev&count=1)](https://www.last.fm/user/yasandev)
