@@ -7,8 +7,8 @@ on:
   
 jobs:
   update-readme:
-    name: Update this repo's README
-    runs-on: self-hosted
+    name: Update this repo's README with latest WakaTime data
+    runs-on: [ self-hosted ]
     steps:
       - uses: athul/waka-readme@master
         with:
